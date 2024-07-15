@@ -1,1 +1,1 @@
-# Marathon_Races_Data_Cleaning_EDA
+In this project I have used my learning experience for cleaning complex data of Marathons across the United States and filtered it to 50 mile races. I have also performed an exploratory data analysis using seaborn to show the various insights I have percieved from this data set.
